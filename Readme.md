@@ -2,7 +2,7 @@
 
 ## Reja:
 
-1. [Django asoslari](https://telegra.ph/Django-1-dars-10-09)       [[Video]](https://www.youtube.com/playlist?list=PLZ67NWgKA8g7b-o4w5bm3B4fngZ2ug959) 
+1. [Django asoslari](https://telegra.ph/Django-1-dars-10-09)       
 2. [Modellar](02.%20Modellar%20bilan%20ishlash)
 3. [QuerySet. Filtr va shartlar bilan ishlash](3.%20QuerySet.%20Filtr%20va%20shartlar%20bilan%20ishlash)
 4. [QuerySet. QuerySet qaytaradigan metodlar](4.%20QuerySet.%20QuerySet%20qaytaradigan%20metodlar)
